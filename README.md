@@ -1,4 +1,5 @@
-[![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
+
+<img width="1143" height="306" alt="mp" src="https://github.com/user-attachments/assets/0247218e-1fd4-4dfb-8ebc-72892c0dae2b" />
 
 # On solving integer robust optimization problems with integer decision-dependent uncertainty sets
 This archive is distributed under the [MIT License](LICENSE).
